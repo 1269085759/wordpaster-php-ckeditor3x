@@ -7,3 +7,4 @@ upload
 .svn
 *.user
 *.suo
+/php/upload
